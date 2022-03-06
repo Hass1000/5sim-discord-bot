@@ -1,5 +1,6 @@
 # 5sim-discord-bot
 
+Please leave a star on this repo :)
 
 
 This is a discord bot coded in python which allows you to buy phone numbers from [5sim](https://5sim.net/) and also recieve sms.
@@ -21,5 +22,3 @@ These are the current commands you can do:
 Example:
 
 ![image](https://user-images.githubusercontent.com/54211493/156931455-a5d8ec1b-95ca-49fa-925a-2ee8670c100a.png)
-
-Please leave a star on this repo :)
