@@ -20,7 +20,8 @@ headers = {
 
 @bot.event
 async def on_ready():
-    print('Logged in as {bot.user}')
+    print('Connected to bot: {}'.format(bot.user.name))
+    print('Bot ID: {}'.format(bot.user.id))
 
 
 @bot.command()
