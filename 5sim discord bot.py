@@ -261,7 +261,5 @@ async def help(ctx):
 async def on_ready():
     await bot.change_presence(activity=discord. Activity(type=discord.ActivityType.listening, name='5sim.net'))
     
-    print('Connected to bot: {}'.format(bot.user.name))
-    print('Bot ID: {}'.format(bot.user.id))   
     
 bot.run('bot token here')
